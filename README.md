@@ -49,3 +49,50 @@ Age: 25
 City: Delhi
 Student: Flase
 In 5 years, you will be 30 years old.
+
+### ✅ [Step 3: Operators](Step03_Operators/operators.py)
+**Concepts Covered:**
+- Arithmetic Operators: `+`, `-`, `*`, `/`, `//`, `%`, `**`
+- Comparison Operators: `==`, `!=`, `>`, `<`, `>=`, `<=`
+- Logical Operators: `and`, `or`, `not`
+- Assignment Operators: `=`, `+=`, `-=`, `*=`, `/=`
+
+**How to Run:**
+```bash```
+python Step03_Operators/operators.py
+
+**Expected Output:**
+
+Enter first number: 3
+Enter second number: 2
+
+--- Arithemetic Operators ---
+Addition: 3.0 + 2.0 = 5.0
+Subtraction: 3.0 - 2.0 = 1.0
+Multiplication: 3.0 * 2.0 = 6.0
+Division: 3.0 / 2.0 = 1.5
+Floor Division: 3.0 // 2.0 = 1.0
+Modulus: 3.0 % 2.0 = 1.0
+Exponent: 3.0 ** 2.0 = 9.0
+
+--- Comparision Operator ---
+Equal To: 3.0 == 2.0 : False 
+Not Equal To: 3.0 != 2.0 : True
+Greater Than: 3.0 > 2.0 : True
+Less Than: 3.0 < 2.0 : False
+Greater Than Equal To: 3.0 >= 2.0 : True
+Less Than Equal To: 3.0 <= 2.0 : False
+
+--- Logical Operators ---
+AND Operator: True and False : False
+OR Operator: True or False : True
+NOT Operator: not True : not False
+
+NOT Operator: not True : not False
+
+--- Assignment Operator ---
+Equals: x = 3.0
+Plus Equals: x += 2.0 -> x = 5.0
+Plus Equals: x += 2.0 -> x = 5.0
+Multiply Equals: x *= 2 -> x = 10.0
+Divide Equals: x /= 3 -> x = 3.3333333333333335
