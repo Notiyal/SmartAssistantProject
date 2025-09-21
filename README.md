@@ -17,11 +17,6 @@ Each step introduces **one Python concept** and builds on the previous step, so 
 ```bash ```
 python Step01_Hello_World/hello_world.py
 
-**Expected Output:**
-Hello! Welcome to your Smart Assistant Project
-What is your name? Shweta
-Nice to meet you, Shweta! Let's start our journey in Python.
----
 
 ### ✅ [Step 2: Variable & Data Types](Step02_Variable_DataTypes/variable_datatypes.py)
 
@@ -36,19 +31,6 @@ Nice to meet you, Shweta! Let's start our journey in Python.
 ```bash```
 python Step02_Variables_DataTypes/main.py
 
-**Expected Output:**
-
-What is your name? Alice
-How old are you? 25
-Which city do you live in? London
-Are you a student? (yes/no): yes
-
---- Your Profile ---
-Name: Shweta
-Age: 25
-City: Delhi
-Student: Flase
-In 5 years, you will be 30 years old.
 
 ### ✅ [Step 3: Operators](Step03_Operators/operators.py)
 **Concepts Covered:**
@@ -61,38 +43,14 @@ In 5 years, you will be 30 years old.
 ```bash```
 python Step03_Operators/operators.py
 
-**Expected Output:**
 
-Enter first number: 3
-Enter second number: 2
+### ✅ [Step 4: Conditionals](Step04_Conditionals/main.py)
+**Concepts Covered:**
+- if statement
+- if…else
+- if…elif…else
+- Nested conditionals
 
---- Arithemetic Operators ---
-Addition: 3.0 + 2.0 = 5.0
-Subtraction: 3.0 - 2.0 = 1.0
-Multiplication: 3.0 * 2.0 = 6.0
-Division: 3.0 / 2.0 = 1.5
-Floor Division: 3.0 // 2.0 = 1.0
-Modulus: 3.0 % 2.0 = 1.0
-Exponent: 3.0 ** 2.0 = 9.0
-
---- Comparision Operator ---
-Equal To: 3.0 == 2.0 : False 
-Not Equal To: 3.0 != 2.0 : True
-Greater Than: 3.0 > 2.0 : True
-Less Than: 3.0 < 2.0 : False
-Greater Than Equal To: 3.0 >= 2.0 : True
-Less Than Equal To: 3.0 <= 2.0 : False
-
---- Logical Operators ---
-AND Operator: True and False : False
-OR Operator: True or False : True
-NOT Operator: not True : not False
-
-NOT Operator: not True : not False
-
---- Assignment Operator ---
-Equals: x = 3.0
-Plus Equals: x += 2.0 -> x = 5.0
-Plus Equals: x += 2.0 -> x = 5.0
-Multiply Equals: x *= 2 -> x = 10.0
-Divide Equals: x /= 3 -> x = 3.3333333333333335
+**How to Run:**
+```bash```
+python Step04_Conditionals/main.py
