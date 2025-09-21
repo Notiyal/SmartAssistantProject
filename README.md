@@ -44,7 +44,7 @@ python Step02_Variables_DataTypes/main.py
 python Step03_Operators/operators.py
 
 
-### ✅ [Step 4: Conditionals](Step04_Conditionals/main.py)
+### ✅ [Step 4: Conditionals](Step04_Conditionals/conditionals.py)
 **Concepts Covered:**
 - if statement
 - if…else
@@ -53,4 +53,19 @@ python Step03_Operators/operators.py
 
 **How to Run:**
 ```bash```
-python Step04_Conditionals/main.py
+python Step04_Conditionals/conditionals.py
+
+### ✅ [Step 5: Loops (for, while)] (Step05_Loops/loops.py)
+
+In this step, we learn how to repeat actions using **for** and **while** loops.
+
+### 🔹 Code Highlights
+- **For loop** → repeats a fixed number of times (`range(1,6)` counts 1 to 5).
+- **While loop** → keeps running until a condition is met (`exit` keyword stops it).
+
+**How to Run:**
+```bash```
+python Step05_Loops/loops.py
+
+
+
