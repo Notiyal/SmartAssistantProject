@@ -67,5 +67,17 @@ In this step, we learn how to repeat actions using **for** and **while** loops.
 ```bash```
 python Step05_Loops/loops.py
 
+### ✅ [Step 6: Lists](Step06_Lists/lists.py)
+
+**Concepts Covered:**
+- Creating and accessing lists
+- Adding and removing items (`append`, `remove`, `pop`)
+- Looping through a list
+- Counting items with `len()`
+- Taking user input to dynamically **add or remove tasks**
+
+**How to Run:**
+```bash```
+python Step06_Lists/lists.py
 
 
