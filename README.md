@@ -80,4 +80,16 @@ python Step05_Loops/loops.py
 ```bash```
 python Step06_Lists/lists.py
 
+### ✅ [Step 7: Tuples](Step07_Tuples/tuples_basics.py)
+
+**Concepts Covered:**
+- Creating tuples
+- Accessing tuple elements
+- Tuple unpacking
+- Immutability of tuples (cannot change values)
+- Taking **user input** and storing profile in a tuple
+
+**How to Run:**
+```bash```
+python Step07_Tuples/tuples_basics.py
 
