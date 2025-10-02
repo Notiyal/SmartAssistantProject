@@ -80,7 +80,7 @@ python Step05_Loops/loops.py
 ```bash```
 python Step06_Lists/lists.py
 
-### ✅ [Step 7: Tuples](Step07_Tuples/tuples_basics.py)
+### ✅ [Step 7: Tuples](Step07_Tuples/tuples.py)
 
 **Concepts Covered:**
 - Creating tuples
@@ -91,5 +91,19 @@ python Step06_Lists/lists.py
 
 **How to Run:**
 ```bash```
-python Step07_Tuples/tuples_basics.py
+python Step07_Tuples/tuples.py
+
+### ✅ [Step 8: Dictionaries](Step08_Dictionaries\dictionaries.py)
+- Create a user profile with name, age, city, and email (entered by user).
+- Update profile details (e.g., age).
+- Optionally remove city.
+- Task manager:
+  - Add a new task.
+  - Remove a task by its number.
+- Shows how dictionaries can store structured information.
+
+**How to Run:**
+```bash```
+python Step08_Dictionaries\dictionaries.py
+
 
