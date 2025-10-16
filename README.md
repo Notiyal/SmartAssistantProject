@@ -7,7 +7,7 @@ Each step introduces **one Python concept** and builds on the previous step, so 
 
 ## 📂 Steps
 
-### ✅ [Step 1: Hello World & User Input](Step01_Hello_World/hello_world.py)
+### ✅ [Step 1: Hello World & User Input](Step01_Hello_World\hello_world.py)
 **Concepts Covered:**
 - Printing messages (`print`)
 - Taking user input (`input`)
@@ -15,10 +15,10 @@ Each step introduces **one Python concept** and builds on the previous step, so 
 
 **How to Run:**
 ```bash ```
-python Step01_Hello_World/hello_world.py
+python Step01_Hello_World\hello_world.py
 
 
-### ✅ [Step 2: Variable & Data Types](Step02_Variable_DataTypes/variable_datatypes.py)
+### ✅ [Step 2: Variable & Data Types](Step02_Variable_DataTypes\variable_datatypes.py)
 
 **Concepts Covered:**
 - Variables
@@ -29,10 +29,10 @@ python Step01_Hello_World/hello_world.py
 
 **How to Run:**
 ```bash```
-python Step02_Variables_DataTypes/main.py
+python Step02_Variable_DataTypes\variable_datatypes.py
 
 
-### ✅ [Step 3: Operators](Step03_Operators/operators.py)
+### ✅ [Step 3: Operators](Step03_Operators\operators.py)
 **Concepts Covered:**
 - Arithmetic Operators: `+`, `-`, `*`, `/`, `//`, `%`, `**`
 - Comparison Operators: `==`, `!=`, `>`, `<`, `>=`, `<=`
@@ -41,10 +41,10 @@ python Step02_Variables_DataTypes/main.py
 
 **How to Run:**
 ```bash```
-python Step03_Operators/operators.py
+python Step03_Operators\operators.py
 
 
-### ✅ [Step 4: Conditionals](Step04_Conditionals/conditionals.py)
+### ✅ [Step 4: Conditionals](Step04_Conditionals\conditionals.py)
 **Concepts Covered:**
 - if statement
 - if…else
@@ -53,9 +53,9 @@ python Step03_Operators/operators.py
 
 **How to Run:**
 ```bash```
-python Step04_Conditionals/conditionals.py
+python Step04_Conditionals\conditionals.py
 
-### ✅ [Step 5: Loops (for, while)] (Step05_Loops/loops.py)
+### ✅ [Step 5: Loops (for, while)] (Step05_Loops\loops.py)
 
 In this step, we learn how to repeat actions using **for** and **while** loops.
 
@@ -65,9 +65,9 @@ In this step, we learn how to repeat actions using **for** and **while** loops.
 
 **How to Run:**
 ```bash```
-python Step05_Loops/loops.py
+python Step05_Loops\loops.py
 
-### ✅ [Step 6: Lists](Step06_Lists/lists.py)
+### ✅ [Step 6: Lists](Step06_Lists\lists.py)
 
 **Concepts Covered:**
 - Creating and accessing lists
@@ -78,9 +78,9 @@ python Step05_Loops/loops.py
 
 **How to Run:**
 ```bash```
-python Step06_Lists/lists.py
+python Step06_Lists\lists.py
 
-### ✅ [Step 7: Tuples](Step07_Tuples/tuples.py)
+### ✅ [Step 7: Tuples](Step07_Tuples\tuples.py)
 
 **Concepts Covered:**
 - Creating tuples
@@ -91,7 +91,7 @@ python Step06_Lists/lists.py
 
 **How to Run:**
 ```bash```
-python Step07_Tuples/tuples.py
+python Step07_Tuples\tuples.py
 
 ### ✅ [Step 8: Dictionaries](Step08_Dictionaries\dictionaries.py)
 - Create a user profile with name, age, city, and email (entered by user).
@@ -106,4 +106,11 @@ python Step07_Tuples/tuples.py
 ```bash```
 python Step08_Dictionaries\dictionaries.py
 
+## Step 9A: Dictionaries Refactored with Functions
+- Reused Step 8 (Profile Manager) but made it cleaner with **functions**:
+  - `create_profile()` → creates dictionary from user input.
+  - `display_profile()` → shows profile neatly.
+  - `add_data()`, `update_data()`, `delete_data()` → manage dictionary.
+- Single menu loop for user actions.
+- Demonstrates **functions + dictionaries** working together.
 
