@@ -106,7 +106,7 @@ python Step07_Tuples\tuples.py
 ```bash```
 python Step08_Dictionaries\dictionaries.py
 
-## Step 9A: Dictionaries Refactored with Functions
+### ✅ [Step 9A: Dictionaries Refactored with Functions](Step09_A_Dictionaries_Functions)
 - Reused Step 8 (Profile Manager) but made it cleaner with **functions**:
   - `create_profile()` → creates dictionary from user input.
   - `display_profile()` → shows profile neatly.
@@ -114,3 +114,32 @@ python Step08_Dictionaries\dictionaries.py
 - Single menu loop for user actions.
 - Demonstrates **functions + dictionaries** working together.
 
+**How to Run:**
+```bash``
+python Step09_A_Dictionaries_Functions\profile_manager.py
+
+### ✅ [Step 9: Functions] (Step09_Functions\functions.py)
+- Define reusable blocks of code using `def`.
+- Functions can:
+  - Take inputs (parameters).
+  - Return outputs (values).
+- Example:
+  - `greet_user()` prints a welcome message.
+  - `create_profile()` asks user details and returns a dictionary.
+
+
+**How to Run:**
+```bash``
+python Step09_Functions\functions.py
+
+### ✅ [Step 10: Functions] (Step10_Loops_Functions\task_manager_refactor.py)
+🧠 Concepts Covered
+
+- Creating and calling functions
+- Passing and returning values
+- Using loops inside functions
+- Menu-driven user interface
+  
+**How to Run:**
+```bash``
+python Step10_Loops_Functions\task_manager_refactor.py
