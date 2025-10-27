@@ -145,3 +145,18 @@ python Step09_Functions\profile_manager.py
 **How to Run:**
 ```bash``
 python Step10_Loops_Functions\task_manager_refactor.py
+
+
+### ✅ [Step 10: List + Dictionaries + Functions] (Step10_Loops_Functions\task_manager_enhancement.py)
+
+🧠 Concepts Covered
+
+- Lists of dictionaries
+- Passing complex data structures into functions
+- Looping through nested data
+- CRUD operations (Create, Read, Update, Delete)
+- Modular and reusable code design
+
+**How to Run:**
+```bash``
+python Step10_Loops_Functions\task_manager_enhancement.py
