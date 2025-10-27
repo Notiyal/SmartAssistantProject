@@ -1,6 +1,6 @@
 # Step 9_1: Dictionaries refactored with Functions
 
-print("----------Step 8A: Dictionaries refactored with Functions---------")
+print("\n----------Step 8A: Dictionaries refactored with Functions---------\n")
 
 def create_profile():
   print("Enter below details:- \n")
