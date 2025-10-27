@@ -1,7 +1,7 @@
 # Step 10_1: Lists + Dictionaries + Functions
 # Managing multiple tasks in a list of dictionaries
 
-print("\n--------------- Task Manager (Enhanced) -----------------\n")
+print("\n--------------- Task Manager(Enhanced) -----------------\n")
 
 # Initialize empty list to store all the tasks
 tasks = []
